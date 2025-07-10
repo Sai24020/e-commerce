@@ -1,5 +1,6 @@
 # 🚀 🚀 Demo _ IndividuelltProjekt
 # # 🚀 🚀 Deploy on Vercel
+# 🚀 🚀 https://supal.vercel.app/   🚀 🚀
 
  # https://suzan-git-master-sai24020s-projects.vercel.app/
  Behöver inte email och user password
