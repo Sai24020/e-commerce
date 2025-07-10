@@ -1,5 +1,9 @@
 # 🚀 🚀 Demo _ IndividuelltProjekt
 # # 🚀 🚀 Deploy on Vercel
+
+ # https://suzan-git-master-sai24020s-projects.vercel.app/
+ Behöver inte email och user password
+ 
   # https://suzan-virid.vercel.app/login
   Behöver email:sm_pal_2025@info.se  password:2025
   
